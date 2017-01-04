@@ -1,0 +1,12 @@
+de/tuberlin/ise/benchfoundry/logicalschema/queries/LogicalQueryTest.class
+de/tuberlin/ise/benchfoundry/connectors/impl/RDBConnectorTest.class
+de/tuberlin/ise/benchfoundry/logicalschema/model/DataSchemaTest.class
+de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/CSColumnTest.class
+de/tuberlin/ise/benchfoundry/logicalschema/model/EntityTest.class
+de/tuberlin/ise/benchfoundry/results/ResultLoggerTest.class
+de/tuberlin/ise/benchfoundry/logicalschema/queries/LogicalQueryRegistryTest.class
+de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/CSTableTest.class
+de/tuberlin/ise/benchfoundry/connectors/impl/MariadbRelationalConnectorTest.class
+de/tuberlin/ise/benchfoundry/util/TraceFileSplitterTest.class
+de/tuberlin/ise/benchfoundry/logicalschema/model/AttributeTest.class
+de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/schemagen/CSSchemaOptionGeneratorTest.class

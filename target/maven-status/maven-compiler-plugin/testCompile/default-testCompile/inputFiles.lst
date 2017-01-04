@@ -1,0 +1,12 @@
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/results/ResultLoggerTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/logicalschema/model/AttributeTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/logicalschema/queries/LogicalQueryRegistryTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/logicalschema/model/EntityTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/CSTableTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/connectors/impl/RDBConnectorTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/CSColumnTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/util/TraceFileSplitterTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/logicalschema/model/DataSchemaTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/physicalschema/model/columnstore/schemagen/CSSchemaOptionGeneratorTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/logicalschema/queries/LogicalQueryTest.java
+/home/ubuntu/01-BenchFoundry/BenchFoundry/src/test/java/de/tuberlin/ise/benchfoundry/connectors/impl/MariadbRelationalConnectorTest.java
